@@ -6,7 +6,6 @@ Welcome to my GitHub profile! I'm passionate about learning Web Development and 
 
 - 🌍 I'm from Riverside California.
 - 💼 Currently a student at General Assembly.
-- 🎓 Studied [Your Field of Study] at [Your University/College].
 - 🌱 I'm currently learning Django.
 
 ## My Skills
