@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm passionate about learning Web Development and 
 - **Front End Development:** React | JavaScript | CSS  | SCSS | Angular | Redux | JQuery | TypeScript | Figma | Sketch | UX | UI | AJAX | HTML
 - **Frameworks & Libraries:** Java | Express.js  | Django | Rest API | Spring Boot | Python | SQL| PostgreSQL
 - **Programming :** Python | Java  | PHP | Node.js 
-- **DevOps **  AWS | Git  | GitLab | Sonar 
+- **DevOps :**  AWS | Git  | GitLab | Sonar 
 
 
 ## Get in Touch
