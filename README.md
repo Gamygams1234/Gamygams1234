@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm passionate about learning Web Development and 
 
 - 🌍 I'm from Riverside California.
 - 💼 Currently a student at General Assembly.
-- 🌱 I'm currently learning Django.
+- 🌱 I'm currently learning Next JS.
 
 ## My Skills
 
