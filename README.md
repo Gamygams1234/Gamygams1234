@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm passionate about learning Web Development and 
 ## About Me
 
 - 🌍 I'm from Riverside California.
-- 💼 Currently a student at General Assembly.
+- 💼 Currently a student at Western Governors University .
 - 🌱 I'm currently learning Next JS.
 
 ## My Skills
